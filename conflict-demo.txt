@@ -1,1 +1,1 @@
-"Automation is future!"
+"Automation is fun with Selenium!"
