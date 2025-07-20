@@ -1,1 +1,1 @@
-"Automation is fun with Playwright!"
+Automation is fun with Playwright and Selenium!
